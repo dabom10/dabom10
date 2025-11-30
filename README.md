@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/dabom10"
   width="1000"
-  height="300"
+  height="500"
 />
 </a>
