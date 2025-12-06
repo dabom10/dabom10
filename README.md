@@ -1,7 +1,8 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dabom10&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/dabom10"
-  width="1000"
-  height="500"
-/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/785049270467261625/draw"
+        width="1000"
+        height="500"
+        alt="gitanimals"
+      />
+    </a>
