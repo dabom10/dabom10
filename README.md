@@ -19,14 +19,6 @@
          <a href=mailto:dabom425@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dabom425@gmail.com"> </a>
           </div>  <br> 
        </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=dabom10&bg_color=180,ffffff,00000000&title_color=006f9e&text_color=006f9e"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabom10&layout=compact&bg_color=180,ffffff,00000000&title_color=006f9e&text_color=006f9e"
-           /> </div> 
-    </div>
-    
-
 
 <a href="https://www.gitanimals.org/">
       <img
